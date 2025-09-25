@@ -23,11 +23,11 @@ The sentiment analysis model is a **Recurrent Neural Network (RNN)**, specifical
 The model's performance is evaluated based on **accuracy** and **loss** during training. The following plots illustrate the model's performance on both the training and validation datasets.
 
 ### Accuracy Plot
-![Accuracy plot](Accuracy%20plot.jpg)
+![Accuracy plot](acc_sentiment.png)
 *This plot shows how the training and validation accuracy changed over the epochs.*
 
 ### Loss Plot
-![Loss plot](Loss%20plot.jpg)
+![Loss plot](loss_sentiment.png)
 *This plot shows how the training and validation loss changed over the epochs.*
 
 ## How to Run the Project
